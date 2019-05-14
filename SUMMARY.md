@@ -20,14 +20,27 @@
   * [Django-Introduction](web/django/introduction.md)
   * [RESTful](web/flask/restful.md)
   * [Django REST framework](web/django/django-rest-framework.md)
+  * [MVC](web/django/mvc.md)
+  * [DjangoModel](web/django/djangomodel.md)
+  * [DjangoViews](web/django/djangoviews.md)
+  * [DjangoTemplates](web/django/djangotemplates.md)
+  * [DjangoAdmin](web/django/djangoadmin.md)
+  * [DjangoUserPermission](web/django/djangouserpermission.md)
+  * [DjangoLogging](web/django/djangologging.md)
+  * [DjangoCache](web/django/djangocache.md)
+  * [DjangoCelery](web/django/djangocelery.md)
 * [Flask](web/flask.md)
   * [Flask-Introduction](web/flask/introduction.md)
   * [Flask-RESTful](web/flask/flask-restful.md)
+  * [FlaskModel](web/flask/flaskmodel.md)
+  * [FlaskTemplates](web/flask/flasktemplates.md)
+  * [FlaskViews](web/flask/flaskview.md)
 * [Tornado](web/tornado.md)
 
 ## Spider
 
 * [SpiderBasic](spider/spider.md)
+  * [packet capture](spider/zhua-bao.md)
   * [urllib](spider/urllib.md)
   * [request](spider/request.md)
   * [selenium](spider/selenium.md)
@@ -48,6 +61,4 @@
 ## Welfare
 
 * [科学上网](welfare/ke-xue-shang-wang.md)
-
-
 
